@@ -1,9 +1,8 @@
 sentence = input()
 a = ord('a')
-result = [0]*27
+result = [0]*26
 
 for s in sentence:
     result[ord(s)-a] +=1
 
-for i in result:
-    print(i, end=' ')
+print(*result)

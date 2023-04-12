@@ -13,25 +13,24 @@
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | 🟥 | | | | |
 | [벌집](https://www.acmicpc.net/problem/2292) | 🟥 | | | | |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🟥 | | | | |
-| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | | | | | |
-| [기상캐스터](https://www.acmicpc.net/problem/10709) | | | | | |
-| [분수 찾기](https://www.acmicpc.net/problem/1193) | | | | | |
-| [손익분기점](https://www.acmicpc.net/problem/1712) | | | | | |
-| [공](https://www.acmicpc.net/problem/1547) | | | | | |
-| [ATM](https://www.acmicpc.net/problem/11399) | | | | | |
-| [단어 정렬](https://www.acmicpc.net/problem/1181) | | | | | |
-| [나이순 정렬](https://www.acmicpc.net/problem/10814)| | | | | |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | | | | | |
-| [곱셈](https://www.acmicpc.net/problem/1629) | | | | | |
-| [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | | |
-| [수학 숙제](https://www.acmicpc.net/problem/2870) | | | | | |
-| [교수가 된 현우](https://www.acmicpc.net/problem/3474) | | | | | |
-| [1](https://www.acmicpc.net/problem/4375) | | | | | |
-| [NBA 농구](https://www.acmicpc.net/problem/2852) | | | | | |
-| [통계학](https://www.acmicpc.net/problem/2108) | | | | | |
-| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | | |
-| [로봇청소기](https://www.acmicpc.net/problem/14503) | | | | | |
-| [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | | |
+| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🟥 | | | | |
+| [기상캐스터](https://www.acmicpc.net/problem/10709) | 🟥 | | | | |
+| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🟥 | | | | |
+| [손익분기점](https://www.acmicpc.net/problem/1712) | 🟥 | | | | |
+| [공](https://www.acmicpc.net/problem/1547) | 🟥 | | | | |
+| [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | | | | |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | 🟥 | | | | |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814)| 🟥 | | | | |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 | | | | 🟦 |
+| [곱셈](https://www.acmicpc.net/problem/1629) | 🟥 | | | | 🟦 |
+| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | | | | 🟦 |
+| [수학 숙제](https://www.acmicpc.net/problem/2870) | 🟥 | | | | |
+| [1](https://www.acmicpc.net/problem/4375) | 🟥 | | | | |
+| [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | | | | 🟦 |
+| [통계학](https://www.acmicpc.net/problem/2108) | 🟥 | | | | 🟦 |
+| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | 🟥 | | | | |
+| [로봇청소기](https://www.acmicpc.net/problem/14503) | 🟥 | | | | 🟦 |
+| [톱니바퀴](https://www.acmicpc.net/problem/14891) | 🟥 | | | | 🟦 |
 | [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | | | |
 | [뱀](https://www.acmicpc.net/problem/3190) | | | | | |
 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | | | | | |

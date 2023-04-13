@@ -29,12 +29,12 @@
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | | | | 🟦 |
 | [통계학](https://www.acmicpc.net/problem/2108) | 🟥 | | | | 🟦 |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | 🟥 | | | | |
-| [로봇청소기](https://www.acmicpc.net/problem/14503) | 🟥 | | | | 🟦 |
-| [톱니바퀴](https://www.acmicpc.net/problem/14891) | 🟥 | | | | 🟦 |
-| [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | | | |
-| [뱀](https://www.acmicpc.net/problem/3190) | | | | | |
-| [괄호 추가하기](https://www.acmicpc.net/problem/16637) | | | | | |
-| [문자해독](https://www.acmicpc.net/problem/1593) | | | | | |
+| [로봇청소기🤯](https://www.acmicpc.net/problem/14503) | 🟥 | | | | 🟦 |
+| [톱니바퀴🤯](https://www.acmicpc.net/problem/14891) | 🟥 | | | | 🟦 |
+| [톱니바퀴2🤯](https://www.acmicpc.net/problem/15662) | | | | | |
+| [뱀🤯](https://www.acmicpc.net/problem/3190) | | | | | |
+| [괄호 추가하기🤯](https://www.acmicpc.net/problem/16637) | | | | | |
+| [문자해독🤯](https://www.acmicpc.net/problem/1593) | | | | | |
 | [수열](https://www.acmicpc.net/problem/2559) | | | | | |
 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | | | | | |
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | | | | | |
@@ -54,18 +54,18 @@
 | [촌수계산](https://www.acmicpc.net/problem/2644) | | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | | |
-| [치즈](https://www.acmicpc.net/problem/2636) | | | | | |
-| [인구이동](https://www.acmicpc.net/problem/16234) | | | | | |
-| [불!](https://www.acmicpc.net/problem/4179) | | | | | |
-| [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | | |
-| [나이트의 이동](https://www.acmicpc.net/problem/7562) | | | | | |
-| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | | | |
-| [컴백홈](https://www.acmicpc.net/problem/1189) | | | | | |
-| [거짓말](https://www.acmicpc.net/problem/1043) | | | | | |
-| [알파벳](https://www.acmicpc.net/problem/1987) | | | | | |
-| [빙산](https://www.acmicpc.net/problem/2573) | | | | | |
-| [주난의 난](https://www.acmicpc.net/problem/14497) | | | | | |
-| [백조의호수](https://www.acmicpc.net/problem/3197) | | | | | |
+| [치즈🤯](https://www.acmicpc.net/problem/2636) | | | | | |
+| [인구이동🤯](https://www.acmicpc.net/problem/16234) | | | | | |
+| [불!🤯](https://www.acmicpc.net/problem/4179) | | | | | |
+| [뮤탈리스크🤯](https://www.acmicpc.net/problem/12869) | | | | | |
+| [나이트의 이동🤯](https://www.acmicpc.net/problem/7562) | | | | | |
+| [벽 부수고 이동하기🤯](https://www.acmicpc.net/problem/2206) | | | | | |
+| [컴백홈🤯](https://www.acmicpc.net/problem/1189) | | | | | |
+| [거짓말🤯](https://www.acmicpc.net/problem/1043) | | | | | |
+| [알파벳🤯](https://www.acmicpc.net/problem/1987) | | | | | |
+| [빙산🤯](https://www.acmicpc.net/problem/2573) | | | | | |
+| [주난의 난🤯](https://www.acmicpc.net/problem/14497) | | | | | |
+| [백조의호수🤯](https://www.acmicpc.net/problem/3197) | | | | | |
 | [토마토](https://www.acmicpc.net/problem/7576) | | | | | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | | | | |
 | [연구소](https://www.acmicpc.net/problem/14502) | | | | | |
@@ -85,10 +85,10 @@
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | | | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | | | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | |
-| [테트로미노](https://www.acmicpc.net/problem/14500) | | | | | |
-| [리모컨](https://www.acmicpc.net/problem/1107) | | | | | |
-| [마인크래프트](https://www.acmicpc.net/problem/18111) | | | | | |
-| [부등호](https://www.acmicpc.net/problem/2529) | | | | | |
+| [테트로미노🤯](https://www.acmicpc.net/problem/14500) | | | | | |
+| [리모컨🤯](https://www.acmicpc.net/problem/1107) | | | | | |
+| [마인크래프트🤯](https://www.acmicpc.net/problem/18111) | | | | | |
+| [부등호🤯](https://www.acmicpc.net/problem/2529) | | | | | |
 | [퇴사](https://www.acmicpc.net/problem/14501) | | | | | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | | | | |
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | | |

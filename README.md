@@ -35,16 +35,16 @@
 | [뱀🤯](https://www.acmicpc.net/problem/3190) | | | | | |
 | [괄호 추가하기🤯](https://www.acmicpc.net/problem/16637) | | | | | |
 | [문자해독🤯](https://www.acmicpc.net/problem/1593) | | | | | |
-| [수열](https://www.acmicpc.net/problem/2559) | | | | | |
-| [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | | | | | |
-| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | | | | | |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | | | | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | | | | | |
-| [미로찾기](https://www.acmicpc.net/problem/2178) | | | | | |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | | | | | |
-| [보물섬](https://www.acmicpc.net/problem/2589) | | | | | |
-| [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | | |
-| [바이러스](https://www.acmicpc.net/problem/2606) | | | | | |
+| [수열](https://www.acmicpc.net/problem/2559) | 🟥 | | | | |
+| [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | 🟥 | | | | |
+| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 🟥 | | | | 🟦 |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | | | | |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | | | | 🟦 |
+| [미로찾기](https://www.acmicpc.net/problem/2178) | 🟥 | | | | |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 | | | | |
+| [보물섬](https://www.acmicpc.net/problem/2589) | 🟥 | | | | |
+| [효율적인 해킹](https://www.acmicpc.net/problem/1325) | 🟥 | | | | |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🟥 | | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | | |
@@ -64,7 +64,7 @@
 | [거짓말🤯](https://www.acmicpc.net/problem/1043) | | | | | |
 | [알파벳🤯](https://www.acmicpc.net/problem/1987) | | | | | |
 | [빙산🤯](https://www.acmicpc.net/problem/2573) | | | | | |
-| [주난의 난🤯](https://www.acmicpc.net/problem/14497) | | | | | |
+| [주난의 난🟥](https://www.acmicpc.net/problem/14497) | | | | | |
 | [백조의호수🤯](https://www.acmicpc.net/problem/3197) | | | | | |
 | [토마토](https://www.acmicpc.net/problem/7576) | | | | | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | | | | |
@@ -77,8 +77,8 @@
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | | | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | | | |
 | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | | |
-| [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | | | |
-| [오큰수](https://www.acmicpc.net/problem/17298) | | | | | |
+| [사과 담기 게임🟥](https://www.acmicpc.net/problem/2828) | | | | | |
+| [오큰수🟥](https://www.acmicpc.net/problem/17298) | | | | | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | | | | | |
 | [분해합](https://www.acmicpc.net/problem/2231) | | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | | |
@@ -89,7 +89,7 @@
 | [리모컨🤯](https://www.acmicpc.net/problem/1107) | | | | | |
 | [마인크래프트🤯](https://www.acmicpc.net/problem/18111) | | | | | |
 | [부등호🤯](https://www.acmicpc.net/problem/2529) | | | | | |
-| [퇴사](https://www.acmicpc.net/problem/14501) | | | | | |
+| [퇴사🟥](https://www.acmicpc.net/problem/14501) | | | | | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | | | | |
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | | |
@@ -107,6 +107,6 @@
 | [수 찾기](https://www.acmicpc.net/problem/1920) | | | | | |
 | [나무 자르기](https://www.acmicpc.net/problem/2805) | | | | | |
 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | | | | | |
-| [과자 나눠주기](https://www.acmicpc.net/problem/16401) | | | | | |
-| [집합의 표현](https://www.acmicpc.net/problem/1717) | | | | | |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | | | | | |
+| [과자 나눠주기🟥](https://www.acmicpc.net/problem/16401) | | | | | |
+| [집합의 표현🟥](https://www.acmicpc.net/problem/1717) | | | | | |
+| [가장 긴 증가하는 부분 수열🟥](https://www.acmicpc.net/problem/11053) | | | | | |

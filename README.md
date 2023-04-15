@@ -78,7 +78,7 @@
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | | | |
 | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | | |
 | [사과 담기 게임🟥](https://www.acmicpc.net/problem/2828) | 🟥 | | | | |
-| [오큰수🟥](https://www.acmicpc.net/problem/17298) | 🟥 | | | | 🟦 |
+| [오큰수🟥](https://www.acmicpc.net/problem/17298) | 🟥 | 🟧 | | | 🟦 |
 | [블랙잭🟥](https://www.acmicpc.net/problem/2798) | 🟥 | | | | |
 | [분해합](https://www.acmicpc.net/problem/2231) | | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | | |

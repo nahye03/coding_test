@@ -40,3 +40,42 @@ for h in range(1, mh):
     result = max(result, cnt)
 
 print(result)
+
+##dfs로 푸는 방법
+import sys
+sys.setrecursionlimit(100000)
+
+n = int(input())
+graph=[]
+max_h = 1
+for _ in range(n):
+    arr = list(map(int, input().split()))
+    graph.append(arr)
+    max_h = max(max_h, max(arr))
+
+dx = [-1,1,0,0]
+dy =[0,0,-1,1]
+def dfs(x,y,h):
+    for i in range(4):
+        nx = x+dx[i]
+        ny = y+dy[i]
+
+        if 0<=nx<n and 0<=ny<n and visited[nx][ny]==0:
+            if graph[nx][ny]>h:
+                visited[nx][ny] = 1
+                dfs(nx, ny, h)
+
+result = 0
+for h in range(max_h):
+    visited=[[0]*n for _ in range(n)]
+    cnt=0
+    for x in range(n):
+        for y in range(n):
+            if graph[x][y]>h and visited[x][y]==0:
+
+                visited[x][y] = 1
+                dfs(x,y,h)
+                cnt+=1
+    result = max(result, cnt)
+
+print(result)

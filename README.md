@@ -66,14 +66,14 @@
 | [인구이동🤯](https://www.acmicpc.net/problem/16234) | 🟥 | | | | |✔️ |
 | [불!🤯](https://www.acmicpc.net/problem/4179) | | | | | |
 | [뮤탈리스크🤯](https://www.acmicpc.net/problem/12869) | 🟥 | | | | |✔️ |
-| [나이트의 이동🤯](https://www.acmicpc.net/problem/7562) | | | | | |
-| [벽 부수고 이동하기🤯](https://www.acmicpc.net/problem/2206) | | | | | |
+| [나이트의 이동🤯](https://www.acmicpc.net/problem/7562) | 🟥 | | | | |
+| [벽 부수고 이동하기🤯](https://www.acmicpc.net/problem/2206) | 🟥 | | | | |✔️|
 | [컴백홈🤯 - 경로 전부 출력](https://www.acmicpc.net/problem/1189) | 🟥 | | | | |✔️ |
 | [거짓말🤯](https://www.acmicpc.net/problem/1043) | | | | | |
 | [알파벳🤯](https://www.acmicpc.net/problem/1987) | | | | | |
 | [빙산🤯](https://www.acmicpc.net/problem/2573) | | | | | |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | | | |
-| [백조의호수🤯](https://www.acmicpc.net/problem/3197) | | | | | |
+| [백조의호수🤯](https://www.acmicpc.net/problem/3197) | 🟥 | | | | |✔️ |
 | [토마토](https://www.acmicpc.net/problem/7576) | | | | | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | | | | |
 | [연구소](https://www.acmicpc.net/problem/14502) | | | | | |

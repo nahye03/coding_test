@@ -82,6 +82,7 @@
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | | | | | |
 | [숨바꼭질2](https://www.acmicpc.net/problem/12851) | | | | | |
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | | | |
+| [프머_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 🟥 | | | | | |
 
 ## 재귀
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
@@ -158,4 +159,4 @@
 ## 완전탐색
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [프머_모의고](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 🟥 | | | | |✔️ |
+| [프머_모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 🟥 | | | | |✔️ |

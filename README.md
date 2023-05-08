@@ -83,6 +83,8 @@
 | [숨바꼭질2](https://www.acmicpc.net/problem/12851) | | | | | |
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | | | |
 | [프머_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 🟥 | | | | | |
+| [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | | | | | |
+| [프머_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 🟥 | | | | | |
 
 ## 재귀
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |

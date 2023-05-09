@@ -169,3 +169,10 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [프머_H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#) | 🟥 | | | | |✔️ |
 | [프머_가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746#) | 🟥 | | | | |✔️ |
+
+## 해시
+| 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
+| :-: | :-: | :-: | :-: | :-: | :-: |:-: |
+| [프머_폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 🟥 | | | | | |
+| [프머_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 🟥 | | | | | |
+| [프머_전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 🟥 | | | | | |

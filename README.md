@@ -85,6 +85,7 @@
 | [프머_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 🟥 | | | | | |
 | [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | | | | | |
 | [프머_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 🟥 | | | | | |
+| [프머_단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 🟥 | | | | | |
 
 ## 재귀
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |

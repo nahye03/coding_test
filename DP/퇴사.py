@@ -6,6 +6,9 @@ for i in range(n):
     t[i]=a
     p[i]=b
 
+print(t)
+print(p)
+
 dp = [0]*(n+1)
 dp[n] = p[n] if t[n]<=1 else 0
 for i in range(n-1,-1,-1):

@@ -36,6 +36,11 @@
 | [괄호 추가하기🤯](https://www.acmicpc.net/problem/16637) | | | | | |
 | [문자해독🤯](https://www.acmicpc.net/problem/1593) | | | | | |
 
+## 다익스트라
+| 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
+| :-: | :-: | :-: | :-: | :-: | :-: |:-: |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | 🟥 | | | | |
+
 ## Prefix Sum
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
@@ -43,11 +48,11 @@
 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | 🟥 | | | | |
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 🟥 | | | | |✔️ |
 
-## 그래프
+## 
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | | | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | | | | |✔️ |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 | | | |✔️ |
 | [미로찾기](https://www.acmicpc.net/problem/2178) | 🟥 | | | | |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 | | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | 🟥 | | | | |
@@ -68,7 +73,7 @@
 | [뮤탈리스크🤯](https://www.acmicpc.net/problem/12869) | 🟥 | | | | |✔️ |
 | [나이트의 이동🤯](https://www.acmicpc.net/problem/7562) | 🟥 | | | | |
 | [벽 부수고 이동하기🤯](https://www.acmicpc.net/problem/2206) | 🟥 | | | | |✔️|
-| [컴백홈🤯 - 경로 전부 출력](https://www.acmicpc.net/problem/1189) | 🟥 | | | | |✔️ |
+| [컴백홈🤯 - 경로 전부 출력](https://www.acmicpc.net/problem/1189) | 🟥 | 🟧 | | | |✔️ |
 | [거짓말🤯](https://www.acmicpc.net/problem/1043) | | | | | |
 | [알파벳🤯](https://www.acmicpc.net/problem/1987) | | | | | |
 | [빙산🤯](https://www.acmicpc.net/problem/2573) | | | | | |
@@ -83,7 +88,7 @@
 | [숨바꼭질2](https://www.acmicpc.net/problem/12851) | | | | | |
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | | | |
 | [프머_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 🟥 | | | | | |
-| [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | | | | | |
+| [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | 🟧 | | | | |
 | [프머_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 🟥 | | | | | |
 | [프머_단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 🟥 | | | | | |
 
@@ -152,7 +157,7 @@
 ## Union Find
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [집합의 표현](https://www.acmicpc.net/problem/1717) | 🟥 | | | | |✔️ |
+| [집합의 표현](https://www.acmicpc.net/problem/1717) | 🟥 | 🟧 | | | |✔️ |
 
 ## LIS
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |

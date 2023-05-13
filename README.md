@@ -123,9 +123,9 @@
 | [파도반 수열](https://www.acmicpc.net/problem/9461) | | | | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | | | | |
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 🟥 | | | | |✔️ |
-| [퇴사](https://www.acmicpc.net/problem/14501) | 🟥 | | | | |✔️ |
+| [퇴사](https://www.acmicpc.net/problem/14501) | 🟥 | 🟧 | | | |✔️ |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | 🟥 | | | | |
-| [RGB거리2](https://www.acmicpc.net/problem/17404) | | | | | |
+| [RGB거리2](https://www.acmicpc.net/problem/17404) | 🟥 | | | | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | | | | |
 
 ## Stack

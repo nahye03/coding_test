@@ -3,27 +3,27 @@
 ## 구현
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🟥 |  |  |  |  |  |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🟥 | 🟧 |  |  |  |  |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | 🟥 | | | | |  |
 | [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)| 🟥 | | | | |  |
-| [농구 경기](https://www.acmicpc.net/problem/1159) | 🟥 | | | | |  |
+| [농구 경기](https://www.acmicpc.net/problem/1159) | 🟥 |🟧 | | | |  |
 | [ROT13](https://www.acmicpc.net/problem/11655) | 🟥 | | | | |  |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🟥 | | | | |  |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🟥 | | | | |  |
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | 🟥 | | | | |  |
 | [벌집](https://www.acmicpc.net/problem/2292) | 🟥 | | | | |  |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🟥 | | | | |  |
-| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🟥 | | | | |
+| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🟥 |🟧 | | | |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) | 🟥 | | | | |
 | [분수 찾기](https://www.acmicpc.net/problem/1193) | 🟥 | | | | |
 | [손익분기점](https://www.acmicpc.net/problem/1712) | 🟥 | | | | |
 | [공](https://www.acmicpc.net/problem/1547) | 🟥 | | | | |
-| [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | | | | |
+| [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | 🟧| | | |
 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 🟥 | | | | |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814)| 🟥 | | | | |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 | | | | |✔️ |
-| [곱셈](https://www.acmicpc.net/problem/1629) | 🟥 | | | | |✔️ |
-| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | | | | |✔️ |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 |🟧 | | | |✔️ |
+| [곱셈](https://www.acmicpc.net/problem/1629) | 🟥 |🟧 | | | |✔️ |
+| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | 🟧 | | | |✔️ |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | 🟥 | | | | |
 | [1](https://www.acmicpc.net/problem/4375) | 🟥 | | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | | | | |✔️ |

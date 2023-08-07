@@ -21,19 +21,19 @@
 | [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | 🟧| | | |
 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 🟥 | | | | |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814)| 🟥 | | | | |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 |🟧 | | | |✔️ |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 |🟧 | | | |✔️✔️ |
 | [곱셈](https://www.acmicpc.net/problem/1629) | 🟥 |🟧 | | | |✔️ |
-| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | 🟧 | | | |✔️ |
+| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | 🟧 | | | |✔️✔️ |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | 🟥 | | | | |
 | [1](https://www.acmicpc.net/problem/4375) | 🟥 | | | | |
-| [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | | | | |✔️ |
-| [통계학](https://www.acmicpc.net/problem/2108) | 🟥 | | | | |✔️ |
+| [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | 🟧 | | | |✔️ |
+| [통계학](https://www.acmicpc.net/problem/2108) | 🟥 |🟧 | | | |✔️ |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | 🟥 | | | | |
-| [로봇청소기🤯](https://www.acmicpc.net/problem/14503) | 🟥 | | | | |✔️ |
+| [로봇청소기🤯](https://www.acmicpc.net/problem/14503) | 🟥 | 🟧 | | | |✔️ |
 | [톱니바퀴🤯](https://www.acmicpc.net/problem/14891) | 🟥 | | | | |✔️ |
 | [톱니바퀴2🤯](https://www.acmicpc.net/problem/15662) | | | | | |
 | [뱀🤯](https://www.acmicpc.net/problem/3190) | | | | | |
-| [괄호 추가하기🤯](https://www.acmicpc.net/problem/16637) | | | | | |
+| [괄호 추가하기🤯](https://www.acmicpc.net/problem/16637) | | | | |✔️|
 | [문자해독🤯](https://www.acmicpc.net/problem/1593) | | | | | |
 
 ## 다익스트라
@@ -46,7 +46,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [수열](https://www.acmicpc.net/problem/2559) | 🟥 | | | | |
 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | 🟥 | | | | |
-| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 🟥 | | | | |✔️ |
+| [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 🟥 |🟧 | | | |✔️ |
 
 ## Graph
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |

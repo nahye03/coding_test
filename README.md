@@ -48,7 +48,7 @@
 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | 🟥 | | | | |
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 🟥 | | | | |✔️ |
 
-## 
+## Graph
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | | | | |

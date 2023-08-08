@@ -39,7 +39,7 @@
 ## 다익스트라
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | 🟥 | | | | |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | 🟥 | 🟧| | | | ✔️|
 
 ## Prefix Sum
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
@@ -52,7 +52,7 @@
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧| | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 | | | |✔️ |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 |🟨 | | |✔️ |
 | [미로찾기](https://www.acmicpc.net/problem/2178) | 🟥 | | | | |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 | | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | 🟥 | | | | |
@@ -62,18 +62,18 @@
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | 🟥 | | | | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | 🟥 | | | | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | | |
-| [안전영역](https://www.acmicpc.net/problem/2468) | 🟥 | | | | |✔️ |
+| [안전영역](https://www.acmicpc.net/problem/2468) | 🟥 |🟧 | | | |✔️ |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | 🟥 | | | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🟥 | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | 🟥 | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | 🟥 | | | | |
 | [치즈🤯](https://www.acmicpc.net/problem/2636) | | | | | |
-| [인구이동🤯](https://www.acmicpc.net/problem/16234) | 🟥 | | | | |✔️ |
+| [인구이동🤯](https://www.acmicpc.net/problem/16234) | 🟥 | 🟧 | | | |✔️ |
 | [불!🤯](https://www.acmicpc.net/problem/4179) | | | | | |
 | [뮤탈리스크🤯](https://www.acmicpc.net/problem/12869) | 🟥 | | | | |✔️ |
 | [나이트의 이동🤯](https://www.acmicpc.net/problem/7562) | 🟥 | | | | |
 | [벽 부수고 이동하기🤯](https://www.acmicpc.net/problem/2206) | 🟥 | | | | |✔️|
-| [컴백홈🤯 - 경로 전부 출력](https://www.acmicpc.net/problem/1189) | 🟥 | 🟧 | | | |✔️ |
+| [컴백홈🤯 - 경로 전부 출력](https://www.acmicpc.net/problem/1189) | 🟥 | 🟧 | 🟨| | |✔️ |
 | [거짓말🤯](https://www.acmicpc.net/problem/1043) | | | | | |
 | [알파벳🤯](https://www.acmicpc.net/problem/1987) | | | | | |
 | [빙산🤯](https://www.acmicpc.net/problem/2573) | | | | | |
@@ -103,16 +103,16 @@
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🟥 | | | | |
-| [오큰수](https://www.acmicpc.net/problem/17298) | 🟥 | 🟧 | | | |✔️ |
+| [오큰수](https://www.acmicpc.net/problem/17298) | 🟥 | 🟧 | 🟨 | | |✔️ |
 
 ## Brute Force
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [블랙잭](https://www.acmicpc.net/problem/2798) | 🟥 | | | | |
+| [블랙잭](https://www.acmicpc.net/problem/2798) | 🟥 |🟧 | | | |
 | [분해합](https://www.acmicpc.net/problem/2231) | | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | | | |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 | | | | |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 |🟧 | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | |
 | [테트로미노🤯](https://www.acmicpc.net/problem/14500) | | | | | |
 | [리모컨🤯](https://www.acmicpc.net/problem/1107) | | | | | |
@@ -137,13 +137,13 @@
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [괄호](https://www.acmicpc.net/problem/9012) | | | | | |
-| [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 🟥 | | | | |✔️ |
+| [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 🟥 |🟧 | | | |✔️ |
 
 ## Tree
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [트리](https://www.acmicpc.net/problem/1068) | 🟥 | | | | |
-| [완전 이진 트리](https://www.acmicpc.net/problem/9934) | 🟥 | | | | |✔️ |
+| [완전 이진 트리](https://www.acmicpc.net/problem/9934) | 🟥 | 🟧| | | |✔️ |
 
 ## Binary Search
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
@@ -167,17 +167,17 @@
 ## 완전탐색
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [프머_모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 🟥 | | | | |✔️ |
+| [프머_모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 🟥 | 🟧 | | | |✔️ |
 
 ## 정렬
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [프머_H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#) | 🟥 | | | | |✔️ |
-| [프머_가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746#) | 🟥 | | | | |✔️ |
+| [프머_가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746#) | 🟥 |🟧 | | | |✔️ |
 
 ## 해시
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [프머_폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 🟥 | | | | | |
-| [프머_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 🟥 | | | | | |
+| [프머_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 🟥 |🟧 | | | | |
 | [프머_전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 🟥 | | | | | |

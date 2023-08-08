@@ -51,7 +51,7 @@
 ## Graph
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | | | | |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧| | | |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 | | | |✔️ |
 | [미로찾기](https://www.acmicpc.net/problem/2178) | 🟥 | | | | |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 | | | | |
@@ -124,11 +124,11 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | 🟥 | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | | |
-| [01타일](https://www.acmicpc.net/problem/1904) | 🟥 | | | | |✔️ |
+| [01타일](https://www.acmicpc.net/problem/1904) | 🟥 | 🟧 | | | |✔️ |
 | [파도반 수열](https://www.acmicpc.net/problem/9461) | | | | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | | | | |
-| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🟥 | | | | |✔️ |
-| [퇴사](https://www.acmicpc.net/problem/14501) | 🟥 | 🟧 | | | |✔️ |
+| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🟥 | 🟧 | | | |✔️ |
+| [퇴사](https://www.acmicpc.net/problem/14501) | 🟥 | 🟧 |🟨 | | |✔️ |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | 🟥 | | | | |
 | [RGB거리2](https://www.acmicpc.net/problem/17404) | 🟥 | | | | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | | | | |

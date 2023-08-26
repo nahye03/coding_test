@@ -21,9 +21,9 @@
 | [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | 🟧| | | |
 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 🟥 | | | | |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814)| 🟥 | | | | |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 |🟧 | | | |✔️✔️ |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🟥 |🟧 | | | |✔️ |
 | [곱셈](https://www.acmicpc.net/problem/1629) | 🟥 |🟧 | | | |✔️ |
-| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | 🟧 | | | |✔️✔️ |
+| [빈도 정렬](https://www.acmicpc.net/problem/2910) | 🟥 | 🟧 | | | |✔️ |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | 🟥 | | | | |
 | [1](https://www.acmicpc.net/problem/4375) | 🟥 | | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🟥 | 🟧 | | | |✔️ |
@@ -52,7 +52,7 @@
 | 제목 | 1회🟥 | 2회🟧 | 3회🟨 | 4회🟩 | 5회🟦 | CK ✔️ |
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧| | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 |🟨 | | |✔️ |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 |🟨 |🟩 | |✔️ |
 | [미로찾기](https://www.acmicpc.net/problem/2178) | 🟥 | | | | |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 | | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | 🟥 | | | | |
@@ -88,7 +88,7 @@
 | [숨바꼭질2](https://www.acmicpc.net/problem/12851) | | | | | |
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | | | |
 | [프머_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 🟥 | | | | | |
-| [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | 🟧 | | | | |
+| [프머_게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 🟥 | 🟧 |🟨 | | | |
 | [프머_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 🟥 | | | | | |
 | [프머_단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 🟥 | | | | | |
 
